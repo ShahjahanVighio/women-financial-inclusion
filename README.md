@@ -34,8 +34,8 @@ Follow these steps to run the project locally on your machine:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-cd YOUR_REPO_NAME
+git clone https://github.com/ShahjahanVighio/women-financial-inclusion.git
+cd women-financial-inclusion
 2. Set Up Virtual Environment (Recommended)
 Bash
 # Create venv
