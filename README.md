@@ -32,8 +32,9 @@ This project analyzes survey data to identify key trends in how women interact w
 
 Follow these steps to run the project locally on your machine:
 
-### 1. Clone the Repository
+
 ```bash
+1. Clone the Repository
 git clone https://github.com/ShahjahanVighio/women-financial-inclusion.git
 cd women-financial-inclusion
 2. Set Up Virtual Environment (Recommended)
