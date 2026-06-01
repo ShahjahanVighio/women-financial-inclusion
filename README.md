@@ -2,6 +2,8 @@
 
 An interactive **Business Analytics Dashboard** built with Python and Streamlit to explore digital lending access, barriers, and financial inclusion metrics for women.
 
+🌐 **Live Web Application:** [View Live Dashboard](https://women-financial-inclusion-34ph43bznnktjas4hdecxr.streamlit.app/)
+
 ---
 
 ## 🌟 Project Overview
