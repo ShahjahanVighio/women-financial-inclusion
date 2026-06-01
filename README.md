@@ -7,28 +7,28 @@ An interactive **Business Analytics Dashboard** built with Python and Streamlit 
 ## 🌟 Project Overview
 This project analyzes survey data to identify key trends in how women interact with digital banking and mobile loan applications. It highlights demographics, usage patterns, and the biggest barriers women face in the financial ecosystem.
 
-### 🚀 Key Features
-*   **Live Metrics:** Real-time calculation of bank account ownership and mobile loan app usage.
-*   **Interactive Filters:** Filter data by **Area of Residence** (Urban, Semi-urban, Rural) to see localized insights.
-*   **Visual Data Exploration:**
-    *   Bar Charts for Age Demographics.
-    *   Donut Charts for identifying perceived barriers to credit.
-*   **Raw Data Access:** Toggle view to inspect the underlying survey responses.
+## 🚀 Key Features
+* **Live Metrics:** Real-time calculation of bank account ownership and mobile loan app usage.
+* **Interactive Filters:** Filter data by **Area of Residence** (Urban, Semi-urban, Rural) to see localized insights.
+* **Visual Data Exploration:**
+    * **Bar Charts:** Visualize Age Demographics.
+    * **Donut Charts:** Identify the biggest perceived barriers to credit.
+* **Raw Data Access:** Toggle view to inspect the underlying survey responses directly.
 
 ---
 
 ## 🛠️ Tech Stack
-*   **Language:** Python 3.12+
-*   **Framework:** [Streamlit](https://streamlit.io/)
-*   **Data Analysis:** Pandas
-*   **Visualization:** Plotly Express
-*   **Environment:** Python `venv` (Virtual Environment)
+* **Language:** Python 3.12+
+* **Framework:** [Streamlit](https://streamlit.io/)
+* **Data Analysis:** Pandas
+* **Visualization:** Plotly Express
+* **Environment:** Python `venv` (Virtual Environment)
 
 ---
 
 ## ⚙️ Installation & Setup
 
-Follow these steps to run the project locally:
+Follow these steps to run the project locally on your machine:
 
 ### 1. Clone the Repository
 ```bash
@@ -64,7 +64,7 @@ requirements.txt: List of Python libraries needed.
 
 data.csv: The cleaned data used by the app.
 
-README.md: Documentation (this file).
+README.md: Documentation and project guide.
 
 📊 Sample Insights
 Demographics: Analyzes which age groups are most active in digital lending.
@@ -74,14 +74,7 @@ Barriers: Identifies lack of credit history and high interest rates as major hur
 Inclusion: Measures the gap between traditional banking and mobile wallet adoption.
 
 🤝 Contributing
-Contributions are welcome! If you have suggestions to improve the dashboard or additional data to add, feel free to fork the repo and create a pull request.
+Contributions are welcome! If you have suggestions to improve the dashboard or additional data to add, feel free to Fork the repo and create a Pull Request.
 
 📄 License
 This project is open-source and available under the MIT License.
-
-
----
-
-### Is mein kya tabdeeli karni hai?
-1. **GitHub Link:** Jahan `YOUR_USERNAME` likha hai, wahan apna GitHub ka username daal dein.
-2. **Screenshots:** Agar aap apne dashboard ki koi picture le kar GitHub par upload karein, to aap README me
